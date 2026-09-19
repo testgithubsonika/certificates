@@ -21,6 +21,7 @@ This directory contains my study materials, notes, and preparation resources for
 #### 📜 Coursera Verification Certificate (`VG2A0F5OENFO.pdf`)
 *   **Verification ID:** `VG2A0F5OENFO`
 *   **Status:** Course Completed / Certificate Earned
-*   **Notes:** This PDF document acts as the official verification statement for specialized coursework completed via Coursera. 
+*   **Notes:** This PDF document acts as the official verification statement for specialized coursework completed via Coursera.
+*   
 
 > _💡 Tip: You can verify the authenticity of this certificate directly on [Coursera's Verification Portal](https://coursera.org)._
