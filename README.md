@@ -8,7 +8,6 @@ This directory contains my study materials, notes, and preparation resources for
 *   **Focus:** Core AWS services, cloud-native application development, deployment, security, and troubleshooting.
 *   **Key Topics Covered:** AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS Elastic Beanstalk, IAM security policies, CI/CD pipelines (AWS CodePipeline, CodeBuild, CodeDeploy), and serverless architectures.
 *   **Objective:** To master developing, deploying, and debugging cloud-based applications using AWS best practices.
-
 #### 🏛️ AWS Certified Solutions Architect - Associate (SAA-C03)
 *   **Focus:** Designing high-availability, cost-efficient, fault-tolerant, and scalable distributed systems on AWS.
 *   **Key Topics Covered:** Compute (EC2, ECS, EKS), Storage (S3, EFS, EBS), Networking (VPC, Route 53, CloudFront), Database systems (RDS, Aurora), and the AWS Well-Architected Framework.
