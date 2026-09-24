@@ -5,6 +5,7 @@ This directory contains my study materials, notes, and preparation resources for
 ### ☁️ Amazon Web Services (AWS)
 
 #### 🛠️ AWS Certified Developer - Associate (DVA-C02)
+
 *   **Focus:** Core AWS services, cloud-native application development, deployment, security, and troubleshooting.
 *   **Key Topics Covered:** AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS Elastic Beanstalk, IAM security policies, CI/CD pipelines (AWS CodePipeline, CodeBuild, CodeDeploy), and serverless architectures.
 *   **Objective:** To master developing, deploying, and debugging cloud-based applications using AWS best practices.
